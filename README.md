@@ -1,2 +1,2 @@
 # ai-image-classification
-AI Image Classification
+AI Image Classification using Python and Pytorch
